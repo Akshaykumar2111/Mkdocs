@@ -1,0 +1,8 @@
+site_name: DataHub
+
+nav:
+    - Home: index.md
+    - Documents: documents.md
+
+theme:
+  name: material
