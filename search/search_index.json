@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Welcome to DataHub","text":"<p>For source code please visit Github.</p>"},{"location":"#documents","title":"Documents","text":"<p>For Documentation please visit Documents</p>"},{"location":"documents/","title":"Welcome to the Documents Section","text":""}]}
